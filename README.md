@@ -48,4 +48,17 @@ Recognizes:
 
 ```bash
 git clone https://github.com/your-username/sign-language-to-speech.git
-cd sign-language-to-speech
+cd American-Sign-language-Detection-System
+```
+### Install the Dependencies
+
+pip install -r requirements.txt
+
+
+### Run the application
+
+python main.py
+
+
+
+
