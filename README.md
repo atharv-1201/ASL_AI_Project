@@ -50,13 +50,14 @@ cd American-Sign-language-Detection-System
 ```
 ### Install the Dependencies
 
+```bash
 pip install -r requirements.txt
-
+```
 
 ### Run the application
-
+```bash
 python main.py
-
+```
 
 ### 📌 Notes
 This project was developed and tested on Python 3.10.16 in a virtual environment.
