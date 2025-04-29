@@ -42,8 +42,6 @@ Recognizes:
 
 ---
 
-## 🚀 Usage
-
 ### 📥 Clone this repository
 
 ```bash
@@ -58,6 +56,15 @@ pip install -r requirements.txt
 ### Run the application
 
 python main.py
+
+
+### 📌 Notes
+This project was developed and tested on Python 3.10.16 in a virtual environment.
+
+Ensure that your system satisfies all library version requirements (see requirements.txt).
+
+### 🤝 Contributing
+Pull requests are welcome! If you have suggestions, improvements, or new features to propose, feel free to open an issue or PR.
 
 
 
