@@ -14,3 +14,15 @@ We built this project from the ground up by capturing and preparing our custom d
 
 ASL Characters The 26 letters and 10 digits of American Sign Language (ASL)
 
+🔧 Tech Stack
+Languages: Python
+Libraries: MediaPipe, OpenCV, Tkinter, Pyttsx3, Scikit-learn
+Machine Learning Model: Random Forest Classifier
+Usage
+Clone this repository:
+
+git clone https://github.com/your-username/sign-language-to-speech.git
+cd sign-language-to-speech
+Install the required dependencies:
+
+pip install -r requirements.txt
